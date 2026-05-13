@@ -1,0 +1,29 @@
+# === Java Backend ===
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+bin/
+.gradle/
+build/
+
+# === IDEs (IntelliJ, VS Code, Eclipse) ===
+.idea/
+*.iml
+out/
+.vscode/
+.metadata/
+.classpath
+.project
+.settings/
+
+# === Frontend & OS ===
+.DS_Store
+Thumbs.db
+.cache/
+
+# === Security & Environment ===
+.env
+.env.local
